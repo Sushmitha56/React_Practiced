@@ -46,7 +46,7 @@ const Calculator  = () =>{
                 <button className="highlight" name="."onClick={handleClick}>.</button>
             </div>
 
-        </div>
+        </div>  
     )
 }
 
